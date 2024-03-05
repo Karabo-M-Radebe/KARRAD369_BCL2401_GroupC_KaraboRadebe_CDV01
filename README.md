@@ -86,17 +86,18 @@ By completing this reflection, you will gain a clearer understanding of your car
     - SMART goals list
 
     Improve Problem-Solving Skills: I would like to solve a minimum of 50 problems coding challenges within the next six months on platforms like LeetCode or HackerRank, focusing on diverse topics by dedicating regular time to practice problem-solving, this goal will help enhance my coding skills and create synergy between my interests and values.
+    Rationale - Improving my problem soliving skills will allow me to engage easier with the content I encounter for my LMS projects. These skills will also provide a foundational skillset that will aid in advancing my career, as I will be a more attractive employee.
 
     Build a Personal Portfolio Website: By the end of November 2024 I would like to have built a personal portfolio that provides a professional online presence for job applications and showcases my skills, projects, and resume on a personal website.I will include at least three completed personal projects with detailed descriptions using the learnt languages and frameworks for efficient development.
+    Rationale - Building a personal portfolio will allow me to showcase my skills, expertise and experience, this will make me a more attractive employee candidate, as well as create a collecction of all my past experinces and reflection of my professional work. 
 
 
     Learn a New Programming Language: I want to master the basics of Python by the end of September 2024, as it is a versatile and widely used language in the industry. I shall alocate dedicated time bi-weekly for learning and practice by completing online courses and building at least three small projects.
+    Rationale - My CodeSpace journey will not expose me to much Python as it is primarily focused on Javascript. Learning the Python language will create a better combination of known languages and this will make me more attractive as a candidate. Learning Python aligns with my interests and goals as well.
 
 
     Contribute to an Open Source Project: I will find 2 suitable projects every month on GitHub related to my interests, this will help me gain real-world experience and exposure to collaborative coding. I will start with smaller issues and gradually tackle more complex tasks.
-
-
-    - Explain the rationale behind each goal.
+    Rationale - Contributing to open source projects aligns with my long term goal of establishing a professional network, as well my values of collaboration, continuous learning, and teamwork. This will also contribute to gaining a versatile amalgamation of skills. 
 
 2. **Long-term Goals** (3-5 years and beyond):
     
@@ -172,19 +173,30 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    Potential obstacles or challenges in reaching my goals:
+
+    Time Management - Balancing coursework, personal life, and learning a new language can be challenging.
+    Conceptual Difficulty - Python may present challenges for those new to programming concepts such as myself.
+    Rejection of Contributions - Initial contributions to open source projects may face rejection, affecting my morale and confidence.
+    Consistent Updates - Maintaining a regular update schedule can be time-consuming.
+    Frustration with Difficult Problems - Overcoming challenging problems can be mentally taxing.
+    
+    Strategies to overcome these challenges:
+
+    Create a Study Schedule: Developing a realistic schedule, that sets aside dedicated time for learning.
+    Engage with Maintainers: I'll actively seek feedback and use rejection as a learning opportunity.
+    Set Reminders: Schedule reminders to update the portfolio regularly with new projects and skills.
+    Accountability Partner: I'll be more active in interacting with my accountability buddy or join online communities for mutual support.
+    Positive Mindset: By cultivating a positive mindset to overcome setbacks and to stay motivated, I will overcome the mental battle.
+
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    Opportunities you can leverage for career growth:
+    - Having coaches on standby can cultivate my growth as I can use them for motivation, learning opportunities and mentors to help guide my career goals.
+    - Communnity Fridays can be disproportionately leveraged as they can increase or fastrack my goals.
+    - The provided resources can accelarate my growth as they will offer me greater chances by exposing me to more than I actually would be able to acquire.
 
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
-
-
+    Networking, mentorship, or educational opportunities:
+    - Networking > With the help of Community Fridays, I can network with various individuals who have walked my journey before and those alongside me in the journey.
+    - Mentorship > The provided coaches can offer amazing mentorship and create opportunities to learn beyond the scope.
+    - Educational > CodeSpace content, along with the multiple external sources such as W3Schools can aid in my educational progress journey.
